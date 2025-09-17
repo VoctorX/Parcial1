@@ -1,7 +1,7 @@
 # Agenda de Contactos – Python (Tkinter)
+**Aplicación funcional y completa para la gestión eficiente de contactos telefónicos.**
 
 Esta aplicación corresponde a una **Agenda de Contactos** desarrollada en **Python** utilizando la librería **Tkinter** para la interfaz gráfica.
-*Aplicación funcional y completa para la gestión eficiente de contactos telefónicos.*
 
 ---
 
@@ -41,14 +41,14 @@ Se desarrolló una aplicación completa de gestión de contactos con las siguien
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/VoctorX/agenda-contactos.git
+git clone https://github.com/VoctorX/Parcial1.git
 ```
 
 2. Abre la carpeta del repositorio en tu editor de código.
 3. Asegúrate de tener el archivo `celular.ico` en la misma carpeta.
 4. Ejecuta el archivo principal:
 ```bash
-python agenda_contactos.py
+python parcial.py
 ```
 
 ## Autor ✒️
