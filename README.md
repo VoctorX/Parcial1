@@ -32,7 +32,7 @@ Se desarrolló una aplicación completa de gestión de contactos con las siguien
 - **Manejo de Errores**: Control de excepciones para la carga del icono.
 
 **ACLARACIÓN IMPORTANTE** ⚠️
-- Si desea ver el logo correctamente, es importante que el archivo `celular.ico` esté en la misma carpeta que el script Python.
+- Si desea ver el logo correctamente, es importante que el archivo `celular.ico` esté en la misma carpeta que el Python.
 - Esto no afecta la funcionalidad del código, simplemente es un detalle visual para la correcta visualización del logo.
 
 ---
@@ -60,9 +60,7 @@ python parcial.py
 ## Construido con 🛠️
 _Herramientas y lenguajes utilizados en este proyecto:_
 
+* [Python](https://www.python.org/) - Lenguaje de programación ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 * [Git](https://git-scm.com/) - Control de versiones ![GitHub](https://img.shields.io/badge/GitHub-actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código
-* [Python](https://www.python.org/) - Lenguaje de programación ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
-* [Tkinter](https://docs.python.org/3/library/tkinter.html) - Librería para interfaces gráficas
-
 
